@@ -1,4 +1,5 @@
 1/ it adds a .git file. to add commits.
 2/ staging area offers room for trying things before making a commit in the working directory.
 3/How can you use the staging area to make sure you have one commit per logical change? by adding only the files related to that change to the staging area.
-4/ if you want to make changes to your code, but want to keep the old version too, you make another branch.
+4/ if you want to make changes to your code, but want to keep the old version too, you make another branch. 
+5/ merging two branches adds changes made in both branches to one unified branch.
