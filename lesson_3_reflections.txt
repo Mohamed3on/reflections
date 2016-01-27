@@ -4,3 +4,5 @@ When would you want to use a remote repository rather than keeping all your work
 2/
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 -If you want to keep a repository local for a while to test it before making it pulbic.
+3/
+A fork is a clone done from someone's repository to your GitHub repository, and you can push to it/pull from it.
